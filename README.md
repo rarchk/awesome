@@ -19,6 +19,7 @@ A list of technical things that I'm interested in, and doing it in github flavor
 13. [Continuous Integration](https://github.com/ciandcd/awesome-ciandcd)
 14. [Awesome-Data-Engineering](https://github.com/igorbarinov/awesome-data-engineering)
 15. [Awesome-Stream](https://github.com/manuzhang/awesome-streaming)
+16. [Awesome os](https://github.com/jubalh/awesome-os)
 
 ## Web
 1. [Awesome-REST](https://github.com/marmelab/awesome-rest)
@@ -36,6 +37,7 @@ A list of technical things that I'm interested in, and doing it in github flavor
 6. [Awesome-Python](https://github.com/kirang89/pycrumbs)
 7. [Awesome-shell](https://github.com/alebcay/awesome-shell)
 8. [Awesome-vim](https://github.com/akrawchyk/awesome-vim)
+9. [Art of commandline](https://github.com/jlevy/the-art-of-command-line#system-debugging)
 
 ## Academics 
 1. [Awesome-Courses](https://github.com/prakhar1989/awesome-courses)
