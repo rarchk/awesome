@@ -1,7 +1,8 @@
-Awesome Awesome List 
+# Awesome Curated List  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 === 
-A list of technical things that I'm interested in, and doing it in github flavored [awesome](https://github.com/sindresorhus/awesome) lists.
+These are the awesome indexes that I enjoy, and are  derived from [awesome](https://github.com/sindresorhus/awesome).
 
+## Readings and Exploration
 1. [Awesome-posts](https://github.com/rarchk/awesome-posts)
 
 ## Backend
