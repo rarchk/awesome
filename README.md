@@ -1,6 +1,7 @@
-# Awesome Curated List  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+Awesome Curated List  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 === 
-These are the awesome indexes that I enjoy, and are  derived from [awesome](https://github.com/sindresorhus/awesome).
+
+These are the awesome indexes that I enjoy, and are  derived from [awesome](https://github.com/sindresorhus/awesome) lists.
 
 ## Readings and Exploration
 1. [Awesome-posts](https://github.com/rarchk/awesome-posts)
